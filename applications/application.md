@@ -6,7 +6,7 @@ This chapter describes a major fields of technology where different languages ap
 
 <!-- [filename](chapters/web_applications.md ' :include') -->
 
-## Web applications
+<!-- ## Web applications -->
 
 <!-- ## Embedded -->
 
