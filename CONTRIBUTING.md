@@ -15,13 +15,13 @@ Beside that we also look for all contriutions like:
 One of our standards is avoiding redundancy. Therefore we won't accept a content that contains too many details.
 
 ## Standards
-- We avoid meaningless text
+- **We avoid meaningless text**  
 No one wants to read text that makes no sense. We avoid wrinting that lines.
 
-- make it simple as sh*t
+- **We make it simple as possible**  
 We do not want to waste readers time. We make our articles as simple as possible, to enable easy understanding of it.
 
-- We avoid redundancy
+- **We avoid redundancy**  
 Writing what has been written is not our goal. We aim to make a simple coding overview, and redirect a reader to a more explanatory sources if those exists.
 
 <!-- Your first contribution: take a look in issues to look for "beginner issue" -->
